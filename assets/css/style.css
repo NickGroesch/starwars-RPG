@@ -1,0 +1,15 @@
+/* .body{
+    need a background
+} */
+.heading {
+  text-align: right;
+}
+.players {
+  height: 150 px;
+  width: 600px;
+  background: grey;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
